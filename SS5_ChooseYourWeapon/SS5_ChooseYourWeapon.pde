@@ -32,7 +32,7 @@ void setup () {
 
 
 void draw() {
-  
+  background(255);
  fill(200, 200, 200);
  ellipse(100, 600, 70, 70); //head
  line(100, 700, 100, 636); //neck
